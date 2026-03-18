@@ -4,7 +4,7 @@
 
 http://<## 🌐 Live Demo
 
-http://<13.60.205.126>
+http://13.60.205.126
 
 ![Website](ec2-website.png)
 ## 🚀 Overview
