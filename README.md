@@ -1,7 +1,7 @@
 # Project 1 — Static Website Hosting on EC2
 ## 📸 Project Demo
 
-![Website](screenshots/ec2-website.png)
+![Website](ec2-website.png)
 ## 🚀 Overview
 This project demonstrates how to deploy a static website on a cloud server using AWS EC2. It focuses on foundational cloud concepts and Linux server management.
 
